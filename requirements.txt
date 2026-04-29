@@ -1,0 +1,3 @@
+aiogram
+pydantic>=2.8
+aiohttp
